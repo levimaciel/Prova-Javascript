@@ -3,3 +3,5 @@ function passarSlide(passo) {
     exibirSlide(atual);
 }
 imagem.src = slide.foto.replace('C:\\fakepath\\', '');
+
+function addimg (lista_img)
